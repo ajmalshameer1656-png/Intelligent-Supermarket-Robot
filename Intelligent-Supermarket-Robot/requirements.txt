@@ -1,0 +1,6 @@
+opencv-python
+edge_impulse_linux
+pandas
+matplotlib
+numpy
+scikit-learn
